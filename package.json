@@ -1,0 +1,26 @@
+{
+  "name": "margibot",
+  "version": "1.0.0",
+  "description": "A telegram-bot created with Grammy JS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rusavraskr/margibot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rusavraskr/margibot/issues"
+  },
+  "homepage": "https://github.com/rusavraskr/margibot#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "grammy": "^1.38.3",
+    "nodemon": "^3.1.11"
+  }
+}
